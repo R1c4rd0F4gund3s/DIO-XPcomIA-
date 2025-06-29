@@ -13,3 +13,8 @@ Aplicação simples em Python para identificar a **bandeira** de um cartão de c
    ```bash
    git clone https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Github-Copilot.git
    cd src/
+
+## 📧 Contato
+
+[email](mailto:fagundz@gmail.com) | 
+[Linkedin](https://www.linkedin.com/in/ricardofagundes/)
